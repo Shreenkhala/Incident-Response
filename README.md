@@ -1,8 +1,8 @@
-Incident Response
-Overview
+##Incident Response
+##Overview
 This repository serves as a comprehensive resource for understanding and managing Incident Response. It includes curated content, best practices, and frameworks to help organizations effectively respond to and manage security incidents.
 
-Purpose
+##Purpose
 The goal of this repository is to provide:
 
 Educational Material: Understand the principles and processes of incident response.
@@ -20,15 +20,15 @@ Contribute: Share your own templates, case studies, or improvements by creating 
 Contributing
 We welcome contributions to expand and improve this repository. If you have ideas, resources, or improvements, please:
 
-Fork the repository.
+##Fork the repository.
 Create a new branch for your changes.
 Submit a pull request with a description of your contribution.
 For detailed guidelines, see the CONTRIBUTING.md file (if applicable).
 
-License
+##License
 This repository is licensed under the MIT License.
 
-Contact
+##Contact
 For any questions or suggestions, please feel free to reach out:
 
 GitHub Profile: Shreenkhala
